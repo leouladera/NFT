@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LANDING PAGES<br>👯 I’m looking to collaborate on UI/UX DESIGN<br>🤝 I’m looking for help with CSS<br> 🎯 I've created this website just for fun<be> 
+🔭 I’m currently working on LANDING PAGES<br>👯 I’m looking to collaborate on UI/UX DESIGN<br>🤝 I’m looking for help with CSS<br> 🎯 I've created this website just for fun<br> 🧩 WEBSITE  not responsive yet<be> 
 
 
 ## 🌐 Socials:
